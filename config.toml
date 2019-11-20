@@ -1,5 +1,6 @@
-baseURL = "https://vector.dev/"
+baseURL = "https://vector-project-old.netlify.com/"
 languageCode = "en-us"
+pygmentsCodeFences = true
 title = "Vector: A High-Performance Logs, Events, & Metrics Router"
 theme = "vector"
 
